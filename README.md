@@ -26,8 +26,12 @@ Privileged Access Management sits at the center of most real-world security inci
 - **Immutable audit trail** — every security-relevant action is logged and never mutated, the same principle compliance frameworks like SOC 2 and PCI-DSS are built on
 
 ## Screenshots
+<img width="959" height="442" alt="ap1" src="https://github.com/user-attachments/assets/55216d53-d860-4654-867a-11c1a1b2dc1c" />
+<img width="959" height="439" alt="acc req" src="https://github.com/user-attachments/assets/9355c089-f339-40bc-95a1-007be3ab0b96" />
+<img width="959" height="448" alt="resources" src="https://github.com/user-attachments/assets/d8ba2498-c117-4992-9f9e-295bd134e7f3" />
+<img width="959" height="437" alt="audit log" src="https://github.com/user-attachments/assets/80902ddb-ea95-4aca-aaeb-f702f7cbdd92" />
+<img width="959" height="443" alt="secret vault" src="https://github.com/user-attachments/assets/4d25e71b-3b30-4551-958e-efc79b58fc03" />
 
-*(Add 3–4 screenshots here once you're happy with the UI — Dashboard, Access Requests, Secret Vault reveal, Audit Log make the strongest set. Drag them into this section on GitHub and they'll render inline.)*
 
 ## Architecture
 
