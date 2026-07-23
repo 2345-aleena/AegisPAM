@@ -10,11 +10,11 @@ Built as a full-stack security engineering project to explore how privileged acc
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 
-🔗 **Live demo:** [ADD_YOUR_DEPLOYED_LINK_HERE](#)
+🔗 **Live demo:** [ADD_YOUR_DEPLOYED_LINK_HERE](ADD_YOUR_DEPLOYED_LINK_HERE)
 
-👤 **LinkedIn:** [ADD_YOUR_LINKEDIN_URL_HERE](#)
+👤 **LinkedIn:** [ADD_YOUR_LINKEDIN_URL_HERE](ADD_YOUR_LINKEDIN_URL_HERE)
+
 ---
-
 ## Why this project
 
 Privileged Access Management sits at the center of most real-world security incidents — stolen credentials, standing admin access, and unaudited secret sharing are behind a huge share of breaches. Rather than reading about PAM concepts, this project implements them:
